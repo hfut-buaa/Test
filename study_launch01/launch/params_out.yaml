@@ -1,0 +1,16 @@
+B: 255
+G: 50
+R: 100
+my_turtle: {B: 255, G: 50, R: 100, background_b: 255, background_g: 86, background_r: 69,
+  param_B: 100}
+param_A: 100
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_cky_lenovo_xiaoxin_chao5000__34517: 'http://cky-Lenovo-XiaoXin-CHAO5000:34517/',
+    host_cky_lenovo_xiaoxin_chao5000__41601: 'http://cky-Lenovo-XiaoXin-CHAO5000:41601/'}
+rosversion: '1.14.11
+
+  '
+run_id: 2c0e2a90-2011-11ec-acb1-f8633f85e963

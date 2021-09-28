@@ -1,0 +1,6 @@
+<launch>
+      <!--rosparam导出参数到yaml文件-->
+     <rosparam command="dump" file="$(find study_launch01)/launch/params_out.yaml"/>
+     <!--rosparam删除参数-->
+    <rosparam command="delete" param="B"/>
+</launch>
